@@ -16,7 +16,7 @@ stages {
      {
 	steps
 	{
-		sh 'cd /home/ubuntu; sudo mkdir testfolder3'
+		sh 'cd /home/ubuntu; sudo mkdir testfolder4'
 	}
 }
  }
